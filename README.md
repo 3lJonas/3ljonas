@@ -110,4 +110,4 @@ Don't hesitate to reach out if you have any questions or if you'd like to collab
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_
+> _"Simple is better than complex." — Zen of Python_
