@@ -35,8 +35,8 @@ I am a committed and responsible **Software Engineer** passionate about developi
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3lJonas&layout=compact&theme=github_dark" alt="Top Languages" />
 
 <!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=3lJonas&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-
+[<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=3lJonas&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+](https://github-readme-streak-stats.herokuapp.com/?user=3lJonas&theme=github-dark&hide_border=true)
 <!-- GitHub Profile Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=3lJonas&theme=github_dark&column=7" alt="GitHub Trophy" />
 
