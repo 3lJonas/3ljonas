@@ -118,21 +118,6 @@ I have hands-on experience in **full-stack development, data analysis, CI/CD pip
 
 ---
 
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="40"/>
-</p>
-
-<div align="center">
-
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=3ljonas&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-
-
-</div>
-
----
-
 ### 📫 Contact
 
 <p>
@@ -161,5 +146,6 @@ Don't hesitate to reach out if you have any questions or if you'd like to collab
 ---
 
 **Last Updated:** December 11, 2025
+
 
 
