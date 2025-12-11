@@ -19,8 +19,7 @@ I have hands-on experience in **full-stack development, data analysis, CI/CD pip
 - **Engineering in Software** – Universidad Técnica de Ambato  
   Focused on backend & frontend development, database systems, distributed systems, and data analytics.
 
-- **📊 Power BI Certification** – ETL processes, Dashboard creation, and Data Analytics
-
+- <a href="https://drive.google.com/file/d/1EOgNsIl8OTLSk49Ue122LplQVcX8OMhN/view? usp=sharing">**📊 Business Intelligence & Analytics**</a> – SQL Server, Power BI, Tableau | ETL processes, Dashboard creation, and Data Analytics
 ---
 
 ### 🛠️ Tech Stack
@@ -162,3 +161,4 @@ Don't hesitate to reach out if you have any questions or if you'd like to collab
 ---
 
 **Last Updated:** December 11, 2025
+
