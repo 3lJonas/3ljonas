@@ -136,12 +136,12 @@ I have hands-on experience in **full-stack development, data analysis, CI/CD pip
 ### 📫 Contact
 
 <p>
-  <a href="mailto:jona07lozada@gmail.com">
+  <a href="mailto:jona16lozada@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/3lJonas">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original. svg" width="30" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/jonathanlozada">
@@ -161,4 +161,5 @@ Don't hesitate to reach out if you have any questions or if you'd like to collab
 ---
 
 **Last Updated:** December 11, 2025
+
 
